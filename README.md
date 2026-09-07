@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Full-Stack Developer | LLM Integration Specialist</h3>
 
 <p align="center">
-  Building production AI systems — from LLM-orchestrated analytics platforms to full-stack applications.
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;LLM+Integration+%26+RAG+Systems;Building+production+AI+systems" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -49,4 +49,8 @@ Analyzed 30,000+ Tripadvisor/Quora reviews on Egypt's tourism sites, comparing 8
 **Tools:** Docker · Git · GitHub Actions
 
 ---
-<p align="center"> <img src="https://github-readme-stats-seven-flax-50.vercel.app/api?username=Mosapmohamd&show_icons=true&theme=default&hide_border=true" alt="Mosap's GitHub stats"/> </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-seven-flax-50.vercel.app/api?username=Mosapmohamd&show_icons=true&theme=tokyonight&hide_border=true" alt="Mosap's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats-seven-flax-50.vercel.app/api/top-langs/?username=Mosapmohamd&layout=compact&theme=tokyonight&hide_border=true" alt="Mosap's Top Languages"/>
+</p>
