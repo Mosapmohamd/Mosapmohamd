@@ -54,3 +54,7 @@ Analyzed 30,000+ Tripadvisor/Quora reviews on Egypt's tourism sites, comparing 8
   <img height="180em" src="https://github-readme-stats-seven-flax-50.vercel.app/api?username=Mosapmohamd&show_icons=true&theme=tokyonight&hide_border=true" alt="Mosap's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats-seven-flax-50.vercel.app/api/top-langs/?username=Mosapmohamd&layout=compact&theme=tokyonight&hide_border=true" alt="Mosap's Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mosapmohamd/Mosapmohamd/main/metrics.svg" alt="Mosap's GitHub Metrics"/>
+</p>
