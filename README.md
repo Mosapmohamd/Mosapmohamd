@@ -49,5 +49,4 @@ Analyzed 30,000+ Tripadvisor/Quora reviews on Egypt's tourism sites, comparing 8
 **Tools:** Docker · Git · GitHub Actions
 
 ---
-
 <p align="center"> <img src="https://github-readme-stats-seven-flax-50.vercel.app/api?username=Mosapmohamd&show_icons=true&theme=default&hide_border=true" alt="Mosap's GitHub stats"/> </p>
