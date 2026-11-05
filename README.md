@@ -23,7 +23,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Eliara — AI Analytics Platform](https://github.com/CarFLex-Team/Eliara-V2)
+#### 🔹 [Eliara — AI Analytics Platform](https://github.com/Mosapmohamd/Eliara)
 Enterprise, read-only AI analytics platform built for a real production database (378 tables, 464 views, 3.9GB SQLite refreshed from SAP Business One). Two-model LLM architecture — Claude Sonnet as orchestrator, Claude Haiku for governed SQL generation — with hybrid semantic + BM25 retrieval, streaming responses, multi-company isolation, and an anomaly-detection layer for business owners.
 `FastAPI` `Claude API` `Ollama` `SQLite` `Docker` `sentence-transformers`
 
